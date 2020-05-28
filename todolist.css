@@ -1,0 +1,15 @@
+body {
+	background-color: steelblue;
+}
+
+li {
+	border: 2px solid rgb(109, 2, 2);
+}
+
+#special {
+	background-color: springgreen;
+}
+
+.completed {
+	text-decoration: line-through;
+}

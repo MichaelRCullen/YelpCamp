@@ -2,3 +2,39 @@ body {
 	background-color: darkcyan;
 	color: darkblue;
 }
+
+/* CSS Selectors */
+/* Element */
+li {
+}
+
+/* Class */
+.hello {
+}
+
+/* id */
+#name {
+}
+
+/* Star - */
+* {
+	/* applies to every element on the page */
+}
+
+/* Descendant Selector */
+li a {
+	/* - selects every anchor <a> tag inside of an <li> tag */
+}
+
+li .hello {
+	/* selects every hello class element inside of an <li> tag */
+}
+
+/* Adjacent Selector */
+h4 + ul {
+	/* selects elements that come after another element - as a sibling on the same level */
+}
+
+/* Attribute Selector */
+
+/* nth of type */

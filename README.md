@@ -5,3 +5,5 @@ YelpCamp Project - [The Web Developer Bootcamp - Colt Steele - Udemy](https://ww
 * [A Packet's Tale.  How does the Internet Work?](https://youtu.be/ewrBalT_eBM)
 * [CodePen](https://codepen.io)
 * [CSS Zen Garden](http://www.csszengarden.com/)
+* [30 CSS Selectors You Must (not really) Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
