@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Inheritance and Specificity</title>
+
+    <style type="text/CSS">
+    body {
+        color: red;
+        background-color: slategray;
+    }
+
+    ul {
+        color: blue;
+    }
+
+    li {
+        color: orange;
+    }
+
+    .highlight {
+        color: yellow;
+    }
+
+    #special {
+        color: darkgreen;
+    }
+    </style>
+</head>
+
+<body>
+    <p>Hello!!!</p>
+
+    <ul>
+        <li id="special" class="highlight">John</li>
+        <li>Paul</li>
+        <li>George</li>
+        <li class="highlight">Ringo</li>
+    </ul>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">MDN - How is specificity calculated?</a>
+
+</body>
+</html>
