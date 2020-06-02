@@ -10,6 +10,11 @@ html {
 	height: 100%;
 }
 
+h1 {
+	font-weight: 700;
+	font-size: 4em;
+}
+
 hr {
 	border: 0;
 	height: 1px;
@@ -22,9 +27,4 @@ hr {
 	padding-top: 5%;
 	background-image: url();
 	text-shadow: 0 4px 3px rgba(0, 0, 0, 0.4), 0 8px 13px rgba(0, 0, 0, 0.1), 0 18px 23px rgba(0, 0, 0, 0.1);
-}
-
-h1 {
-	font-weight: 700;
-	font-size: 4em;
 }
