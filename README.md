@@ -11,6 +11,10 @@ YelpCamp Project - [The Web Developer Bootcamp - Colt Steele - Udemy](https://ww
 * [Google Fonts](https://fonts.google.com/)
 * [Bootstrap - build fast responsive sites](https://getboostrap.com)
 * [Font Awesome - Web's favorite icon library](https://fontawesome.com)
+
+
+Javascript resources:
+* [MDN Math built-in object library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 * []()
 
 
